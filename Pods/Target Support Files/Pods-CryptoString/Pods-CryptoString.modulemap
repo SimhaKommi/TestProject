@@ -1,0 +1,6 @@
+framework module Pods_CryptoString {
+  umbrella header "Pods-CryptoString-umbrella.h"
+
+  export *
+  module * { export * }
+}
